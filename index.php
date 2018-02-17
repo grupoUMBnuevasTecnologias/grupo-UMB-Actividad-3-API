@@ -9,7 +9,7 @@
     </head>
     <body>
         <div align="center">
-        <img src="/grupo-UMB-Actividad-3-API-master/imagenes/grupo.jpg" style="max-width: 100%; width: auto; height: auto" />
+        <img src="/grupo-UMB-Actividad-3-API/imagenes/grupo.jpg" style="max-width: 100%; width: auto; height: auto" />
         <p><h1>Grupo UMB<br />Actividad 3: Interfaz de Programacion de Aplicacion (APIs)</h1></p>
         </div>
     </body>
